@@ -1,0 +1,101 @@
+,user id,movie id,rate,timestamp,datetime,age ,gender,occupation,zip code,movie title,release date,IMDb URL,other,Action,Adventure,Animation,Children's,Comedy,Crime,Documentary,Drama,Fantasy,Film-Noir,Horror,Musical,Mystery,Romance,Sci-Fi,Thriller,War,Western
+22458,38,84,5,892430937,1998-04-13 01:28:57,28,F,other,54467,Robert A. Heinlein's The Puppet Masters (1994),1994-01-01,http://us.imdb.com/M/title-exact?Robert%20A.%20Heinlein's%20The%20Puppet%20Masters%20(1994),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+19173,106,956,3,881453290,1997-12-07 00:08:10,61,M,retired,55125,Nobody's Fool (1994),1994-01-01,http://us.imdb.com/M/title-exact?Nobody's%20Fool%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+53910,807,399,4,893080801,1998-04-20 14:00:01,41,F,healthcare,93555,"Three Musketeers, The (1993)",1993-01-01,"http://us.imdb.com/M/title-exact?Three%20Musketeers,%20The%20(1993)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+32776,438,255,4,879868242,1997-11-18 15:50:42,51,F,administrator,43204,My Best Friend's Wedding (1997),1997-06-20,http://us.imdb.com/M/title-exact?My+Best+Friend%27s+Wedding+(1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+24572,16,941,1,877720437,1997-10-24 19:13:57,21,M,entertainment,10309,With Honors (1994),1994-01-01,http://us.imdb.com/M/title-exact?With%20Honors%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+10762,117,1016,5,881008815,1997-12-01 20:40:15,20,M,student,16125,Con Air (1997),1997-06-06,http://us.imdb.com/M/title-exact?Con%20Air%20%281997%29,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+57690,342,1057,2,875318783,1997-09-27 00:06:23,25,F,other,98006,"Pallbearer, The (1996)",1996-04-19,"http://us.imdb.com/M/title-exact?Pallbearer,%20The%20(1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+24191,425,257,3,878738992,1997-11-05 14:09:52,19,M,student,58644,Men in Black (1997),1997-07-04,http://us.imdb.com/M/title-exact?Men+in+Black+(1997),0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+15225,45,21,3,881014193,1997-12-01 22:09:53,29,M,programmer,50233,Muppet Treasure Island (1996),1996-02-16,http://us.imdb.com/M/title-exact?Muppet%20Treasure%20Island%20(1996),0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+66132,781,258,2,879633862,1997-11-15 22:44:22,20,M,student,48825,Contact (1997),1997-07-11,http://us.imdb.com/Title?Contact+(1997/I),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+68136,485,301,2,891041551,1998-03-27 23:32:31,44,F,educator,95821,In & Out (1997),1997-09-19,http://us.imdb.com/Title?In+%26+Out+(1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+23799,92,742,3,886443192,1998-02-02 18:13:12,32,M,entertainment,80525,Ransom (1996),1996-11-08,http://us.imdb.com/M/title-exact?Ransom%20(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+14836,405,1531,1,885549094,1998-01-23 09:51:34,22,F,healthcare,10019,Far From Home: The Adventures of Yellow Dog (1995),1995-01-01,http://us.imdb.com/M/title-exact?Far%20From%20Home:%20The%20Adventures%20of%20Yellow%20Dog%20(1995),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48146,552,25,3,879221833,1997-11-11 04:17:13,45,M,other,68147,"Birdcage, The (1996)",1996-03-08,"http://us.imdb.com/M/title-exact?Birdcage,%20The%20(1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+12440,383,474,5,891193072,1998-03-29 17:37:52,42,M,administrator,75204,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),1963-01-01,http://us.imdb.com/M/title-exact?Dr.%20Strangelove%20or:%20How%20I%20Learned%20to%20Stop%20Worrying%20and%20Love%20the%20Bomb%20(1963),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+65087,798,1183,1,875915190,1997-10-03 21:46:30,40,F,writer,64131,"Cowboy Way, The (1994)",1994-01-01,"http://us.imdb.com/M/title-exact?Cowboy%20Way,%20The%20(1994)",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+40410,218,591,3,881288574,1997-12-05 02:22:54,37,M,administrator,06513,Primal Fear (1996),1996-03-30,http://us.imdb.com/M/title-exact?Primal%20Fear%20(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+99352,932,431,3,891250944,1998-03-30 09:42:24,58,M,educator,06437,Highlander (1986),1986-01-01,http://us.imdb.com/M/title-exact?Highlander%20(1986),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92971,586,431,3,884061343,1998-01-06 04:35:43,20,M,student,79508,Highlander (1986),1986-01-01,http://us.imdb.com/M/title-exact?Highlander%20(1986),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32213,349,121,2,879465712,1997-11-14 00:01:52,68,M,retired,61455,Independence Day (ID4) (1996),1996-07-03,http://us.imdb.com/M/title-exact?Independence%20Day%20(1996),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+21982,406,787,3,880132047,1997-11-21 17:07:27,52,M,educator,93109,Roommates (1995),1995-01-01,http://us.imdb.com/M/title-exact?Roommates%20(1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+24507,489,321,3,891447845,1998-04-01 16:24:05,55,M,other,45218,Mother (1996),1996-12-25,http://us.imdb.com/M/title-exact?Mother%20(1996/I),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+76924,627,77,2,879530305,1997-11-14 17:58:25,24,M,engineer,08034,"Firm, The (1993)",1993-01-01,"http://us.imdb.com/M/title-exact?Firm,%20The%20(1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+55456,543,11,3,874866116,1997-09-21 18:21:56,33,M,scientist,95123,Seven (Se7en) (1995),1995-01-01,http://us.imdb.com/M/title-exact?Se7en%20(1995),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+61723,486,924,3,879875069,1997-11-18 17:44:29,39,M,educator,93101,White Squall (1996),1996-01-01,http://us.imdb.com/M/title-exact?White%20Squall%20(1996),0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+49706,758,235,5,881978274,1997-12-13 01:57:54,27,M,student,53706,Mars Attacks! (1996),1996-12-13,http://us.imdb.com/M/title-exact?Mars%20Attacks!%20(1996),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0
+14957,49,518,4,888069437,1998-02-21 13:57:17,23,F,student,76111,Miller's Crossing (1990),1990-01-01,http://us.imdb.com/M/title-exact?Miller's%20Crossing%20(1990),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+95823,25,657,4,885852720,1998-01-26 22:12:00,39,M,engineer,55107,"Manchurian Candidate, The (1962)",1962-01-01,"http://us.imdb.com/M/title-exact?Manchurian%20Candidate,%20The%20(1962)",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+46138,41,58,3,890687353,1998-03-23 21:09:13,33,M,engineer,80525,Quiz Show (1994),1994-01-01,http://us.imdb.com/M/title-exact?Quiz%20Show%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+51519,583,357,5,879384575,1997-11-13 01:29:35,44,M,engineer,29631,One Flew Over the Cuckoo's Nest (1975),1975-01-01,http://us.imdb.com/M/title-exact?One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+80279,536,614,4,882359653,1997-12-17 11:54:13,38,M,engineer,30078,Giant (1956),1956-01-01,http://us.imdb.com/M/title-exact?Giant%20(1956),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+10863,72,423,5,880036550,1997-11-20 14:35:50,48,F,administrator,73034,E.T. the Extra-Terrestrial (1982),1982-01-01,http://us.imdb.com/M/title-exact?E%2ET%2E%20the%20Extra-Terrestrial%20%281982%29,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0
+71855,406,193,4,879445771,1997-11-13 18:29:31,52,M,educator,93109,"Right Stuff, The (1983)",1983-01-01,"http://us.imdb.com/M/title-exact?Right%20Stuff,%20The%20(1983)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+51670,618,404,5,891309192,1998-03-31 01:53:12,15,F,student,44212,Pinocchio (1940),1940-01-01,http://us.imdb.com/M/title-exact?Pinocchio%20(1940),0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47030,408,270,5,889679683,1998-03-12 05:14:43,23,M,student,61755,Gattaca (1997),1997-01-01,http://us.imdb.com/M/title-exact?Gattaca+(1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+58541,445,644,3,890988205,1998-03-27 08:43:25,21,M,writer,92653,"Thin Blue Line, The (1988)",1988-01-01,"http://us.imdb.com/M/title-exact?Thin%20Blue%20Line,%20The%20(1988)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+27114,452,684,4,888493923,1998-02-26 11:52:03,35,M,administrator,28018,In the Line of Fire (1993),1993-01-01,http://us.imdb.com/M/title-exact?In%20the%20Line%20of%20Fire%20(1993),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+75905,303,47,5,879467959,1997-11-14 00:39:19,19,M,student,14853,Ed Wood (1994),1994-01-01,http://us.imdb.com/M/title-exact?Ed%20Wood%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+99969,936,766,3,886832597,1998-02-07 06:23:17,24,M,other,32789,Man of the Year (1995),1996-03-01,http://us.imdb.com/M/title-exact?Man%20of%20the%20Year%20(1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+29485,303,50,5,879466866,1997-11-14 00:21:06,19,M,student,14853,Star Wars (1977),1977-01-01,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977),0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0
+24033,59,1021,4,888204996,1998-02-23 03:36:36,49,M,educator,08403,8 1/2 (1963),1963-01-01,http://us.imdb.com/M/title-exact?8%201/2%20(1963),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+60018,666,200,5,880568465,1997-11-26 18:21:05,44,M,administrator,61820,"Shining, The (1980)",1980-01-01,"http://us.imdb.com/M/title-exact?Shining,%20The%20(1980)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+96290,747,521,5,888640567,1998-02-28 04:36:07,19,M,other,93612,"Deer Hunter, The (1978)",1978-01-01,"http://us.imdb.com/M/title-exact?Deer%20Hunter,%20The%20(1978)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+7199,5,139,3,875721260,1997-10-01 15:54:20,33,F,other,15213,"Love Bug, The (1969)",1969-01-01,"http://us.imdb.com/M/title-exact?Love%20Bug,%20The%20(1969)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+76471,782,881,3,891498381,1998-04-02 06:26:21,21,F,artist,33205,Money Talks (1997),1997-08-22,http://us.imdb.com/M/title-exact?Money+Talks+(1997),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+95888,419,494,3,879435749,1997-11-13 15:42:29,37,M,lawyer,43215,His Girl Friday (1940),1940-01-01,http://us.imdb.com/M/title-exact?His%20Girl%20Friday%20(1940),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+92846,880,992,4,892959014,1998-04-19 04:10:14,13,M,student,83702,Head Above Water (1996),1997-06-20,http://us.imdb.com/M/title-exact?Head+Above+Water+(1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+53948,748,196,3,879454958,1997-11-13 21:02:38,28,M,administrator,94720,Dead Poets Society (1989),1989-01-01,http://us.imdb.com/M/title-exact?Dead%20Poets%20Society%20(1989),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+83568,608,288,5,880402982,1997-11-24 20:23:02,22,M,other,10003,Scream (1996),1996-12-20,http://us.imdb.com/M/title-exact?Scream%20(1996),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+60926,1,123,4,875071541,1997-09-24 03:25:41,24,M,technician,85711,"Frighteners, The (1996)",1996-07-19,"http://us.imdb.com/M/title-exact?Frighteners,%20The%20(1996)",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+76804,880,42,5,880174808,1997-11-22 05:00:08,13,M,student,83702,Clerks (1994),1994-01-01,http://us.imdb.com/M/title-exact?Clerks%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5520,195,227,3,888737346,1998-03-01 07:29:06,42,M,scientist,93555,Star Trek VI: The Undiscovered Country (1991),1991-01-01,http://us.imdb.com/M/title-exact?Star%20Trek%20VI:%20The%20Undiscovered%20Country%20(1991),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+76615,915,333,3,891031450,1998-03-27 20:44:10,50,M,entertainment,60614,"Game, The (1997)",1997-01-01,http://us.imdb.com/M/title-exact?Game%2C+The+(1997),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+96569,771,82,2,880659686,1997-11-27 19:41:26,26,M,student,15232,Jurassic Park (1993),1993-01-01,http://us.imdb.com/M/title-exact?Jurassic%20Park%20(1993),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+85485,853,270,4,879364822,1997-11-12 20:00:22,49,M,writer,40515,Gattaca (1997),1997-01-01,http://us.imdb.com/M/title-exact?Gattaca+(1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+65052,763,16,5,878918332,1997-11-07 15:58:52,27,M,scientist,02113,French Twist (Gazon maudit) (1995),1995-01-01,http://us.imdb.com/M/title-exact?Gazon%20maudit%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+26427,437,746,4,880141335,1997-11-21 19:42:15,27,F,other,20009,Real Genius (1985),1985-01-01,http://us.imdb.com/M/title-exact?Real%20Genius%20(1985),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1831,50,823,3,877052784,1997-10-17 01:46:24,21,M,writer,52245,Mulholland Falls (1996),1996-04-26,http://us.imdb.com/M/title-exact?Mulholland%20Falls%20(1996),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+41821,561,100,4,885807484,1998-01-26 09:38:04,23,M,engineer,60005,Fargo (1996),1997-02-14,http://us.imdb.com/M/title-exact?Fargo%20(1996),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+24598,405,207,1,885549543,1998-01-23 09:59:03,22,F,healthcare,10019,Cyrano de Bergerac (1990),1990-01-01,http://us.imdb.com/M/title-exact?Cyrano%20de%20Bergerac%20(1990),0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+76357,542,780,3,886533003,1998-02-03 19:10:03,21,M,student,60515,Dumb & Dumber (1994),1994-01-01,http://us.imdb.com/M/title-exact?Dumb%20&%20Dumber%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+71254,705,699,5,883427640,1997-12-29 20:34:00,21,F,student,54494,Little Women (1994),1994-01-01,http://us.imdb.com/M/title-exact?Little%20Women%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+86910,933,216,3,874938239,1997-09-22 14:23:59,28,M,student,48105,When Harry Met Sally... (1989),1989-01-01,http://us.imdb.com/M/title-exact?When%20Harry%20Met%20Sally...%20(1989),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+15440,15,929,1,879456168,1997-11-13 21:22:48,49,F,educator,97301,Harriet the Spy (1996),1996-07-03,http://us.imdb.com/M/title-exact?Harriet%20the%20Spy%20(1996),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+98746,286,72,4,877534025,1997-10-22 15:27:05,27,M,student,15217,"Mask, The (1994)",1994-01-01,"http://us.imdb.com/M/title-exact?Mask,%20The%20(1994)",0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+90818,757,188,3,888466614,1998-02-26 04:16:54,26,M,student,55104,Full Metal Jacket (1987),1987-01-01,http://us.imdb.com/M/title-exact?Full%20Metal%20Jacket%20(1987),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+44172,466,328,4,890284652,1998-03-19 05:17:32,22,M,student,90804,Conspiracy Theory (1997),1997-08-08,http://us.imdb.com/M/title-exact?Conspiracy+Theory+(1997),0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+3737,237,211,4,879376515,1997-11-12 23:15:15,49,M,administrator,63146,M*A*S*H (1970),1970-01-01,http://us.imdb.com/M/title-exact?MASH%20(1970),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+48037,577,71,5,880474433,1997-11-25 16:13:53,36,F,student,77845,"Lion King, The (1994)",1994-01-01,"http://us.imdb.com/M/title-exact?Lion%20King,%20The%20(1994)",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+40830,450,1444,4,882468239,1997-12-18 18:03:59,35,F,educator,11758,That Darn Cat! (1965),1965-01-01,http://us.imdb.com/Title?That+Darn+Cat%21+(1965),0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+38400,551,268,4,892775516,1998-04-17 01:11:56,25,M,programmer,55414,Chasing Amy (1997),1997-01-01,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+69740,907,821,5,880160008,1997-11-22 00:53:28,25,F,other,80526,Mrs. Winterbourne (1996),1996-04-19,http://us.imdb.com/M/title-exact?Mrs.%20Winterbourne%20(1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+68280,870,1042,2,879902127,1997-11-19 01:15:27,22,M,student,65203,Just Cause (1995),1995-01-01,http://us.imdb.com/M/title-exact?Just%20Cause%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+85857,919,989,2,875288418,1997-09-26 15:40:18,25,M,other,14216,Cats Don't Dance (1997),1997-03-26,http://us.imdb.com/M/title-exact?Cats%20Don%27t%20Dance%20(1997),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+80200,868,783,1,877113481,1997-10-17 18:38:01,21,M,programmer,55303,Milk Money (1994),1994-01-01,http://us.imdb.com/M/title-exact?Milk%20Money%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+99629,209,276,2,883417796,1997-12-29 17:49:56,33,F,educator,85710,Leaving Las Vegas (1995),1995-01-01,http://us.imdb.com/M/title-exact?Leaving%20Las%20Vegas%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+74621,721,684,4,877138200,1997-10-18 01:30:00,24,F,entertainment,11238,In the Line of Fire (1993),1993-01-01,http://us.imdb.com/M/title-exact?In%20the%20Line%20of%20Fire%20(1993),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+51132,690,746,2,881177532,1997-12-03 19:32:12,35,M,salesman,63304,Real Genius (1985),1985-01-01,http://us.imdb.com/M/title-exact?Real%20Genius%20(1985),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+59280,221,1437,3,875245967,1997-09-26 03:52:47,19,M,student,20685,House Party 3 (1994),1994-01-01,http://us.imdb.com/M/title-exact?House%20Party%203%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28253,256,174,4,882164406,1997-12-15 05:40:06,35,F,none,39042,Raiders of the Lost Ark (1981),1981-01-01,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6962,75,475,5,884049939,1998-01-06 01:25:39,24,M,entertainment,08816,Trainspotting (1996),1996-07-19,http://us.imdb.com/Title?Trainspotting+(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+86256,848,654,5,887038104,1998-02-09 15:28:24,46,M,engineer,02146,Chinatown (1974),1974-01-01,http://us.imdb.com/M/title-exact?Chinatown%20(1974),0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+73706,845,909,4,885409789,1998-01-21 19:09:49,64,M,doctor,97405,Dangerous Beauty (1998),1998-01-23,http://us.imdb.com/M/title-exact?imdb-title-118892,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+19293,222,808,3,881060130,1997-12-02 10:55:30,29,M,programmer,27502,"Program, The (1993)",1993-01-01,"http://us.imdb.com/M/title-exact?Program,%20The%20(1993)",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+49196,741,69,4,891018550,1998-03-27 17:09:10,25,M,writer,63108,Forrest Gump (1994),1994-01-01,http://us.imdb.com/M/title-exact?Forrest%20Gump%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+18972,102,720,2,888801812,1998-03-02 01:23:32,38,M,programmer,30220,First Knight (1995),1995-01-01,http://us.imdb.com/M/title-exact?First%20Knight%20(1995),0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+2604,276,583,3,874791444,1997-09-20 21:37:24,21,M,student,95064,Romeo Is Bleeding (1993),1993-01-01,http://us.imdb.com/M/title-exact?Romeo%20Is%20Bleeding%20(1993),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+64834,148,191,1,877020715,1997-10-16 16:51:55,33,M,engineer,97006,Amadeus (1984),1984-01-01,http://us.imdb.com/M/title-exact?Amadeus%20(1984),0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1125,293,708,3,888907527,1998-03-03 06:45:27,24,M,writer,60804,"Sex, Lies, and Videotape (1989)",1989-01-01,"http://us.imdb.com/M/title-exact?sex,%20lies,%20and%20videotape%20(1989)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+95402,882,369,3,879863257,1997-11-18 14:27:37,35,M,engineer,40503,Black Sheep (1996),1996-02-02,http://us.imdb.com/M/title-exact?Black%20Sheep%20(1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+49157,671,241,5,884035686,1998-01-05 21:28:06,21,M,programmer,91919,"Last of the Mohicans, The (1992)",1992-01-01,"http://us.imdb.com/M/title-exact?Last%20of%20the%20Mohicans,%20The%20(1992)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+99210,606,926,3,880922625,1997-11-30 20:43:45,28,M,programmer,63044,Down Periscope (1996),1996-03-01,http://us.imdb.com/M/title-exact?Down%20Periscope%20(1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5941,85,241,3,882995340,1997-12-24 20:29:00,51,M,educator,20003,"Last of the Mohicans, The (1992)",1992-01-01,"http://us.imdb.com/M/title-exact?Last%20of%20the%20Mohicans,%20The%20(1992)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+65997,805,55,5,881694693,1997-12-09 19:11:33,27,F,other,20009,"Professional, The (1994)",1994-01-01,http://us.imdb.com/Title?L%E9on+(1994),0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0
+1289,151,12,5,879524368,1997-11-14 16:19:28,38,F,administrator,48103,"Usual Suspects, The (1995)",1995-08-14,"http://us.imdb.com/M/title-exact?Usual%20Suspects,%20The%20(1995)",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+12772,148,507,5,877398587,1997-10-21 01:49:47,33,M,engineer,97006,"Streetcar Named Desire, A (1951)",1951-01-01,"http://us.imdb.com/M/title-exact?Streetcar%20Named%20Desire,%20A%20(1951)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+83162,807,503,3,892530004,1998-04-14 05:00:04,41,F,healthcare,93555,"Candidate, The (1972)",1972-01-01,"http://us.imdb.com/M/title-exact?Candidate,%20The%20(1972)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+87128,894,512,5,879897489,1997-11-18 23:58:09,47,M,educator,74075,Wings of Desire (1987),1987-01-01,"http://us.imdb.com/Title?Himmel+%FCber+Berlin,+Der+(1987)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+24909,44,380,4,883613334,1998-01-01 00:08:54,26,M,technician,46260,Star Trek: Generations (1994),1994-01-01,http://us.imdb.com/M/title-exact?Star%20Trek:%20Generations%20(1994),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+30989,466,95,2,890285788,1998-03-19 05:36:28,22,M,student,90804,Aladdin (1992),1992-01-01,http://us.imdb.com/M/title-exact?Aladdin%20(1992),0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
